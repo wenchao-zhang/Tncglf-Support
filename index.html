@@ -23,6 +23,10 @@
       loadSidebar: true,       // 必须开启，用于显示 _sidebar.md 中的自定义菜单
       subMaxLevel: 3,          // 侧边栏自动提取 Markdown 的标题层级
       auto2top: true,          // 切换页面后自动回到顶部
+      // 关键：强制让所有路径都去找根目录下的 _sidebar.md
+  alias: {
+    '/.*/_sidebar.md': '/_sidebar.md'
+  },
       search: {
         maxAge: 86400000,
         paths: 'auto',
