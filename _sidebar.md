@@ -1,8 +1,7 @@
 * [Home](README.md)
 * **Installation**
-  * [Motor Programming](setup.md)
+* [Motor Programming](setup.md)
 * **Support**
-  * [Warranty Registration](warranty.md)
-  * [Contact Us](mailto:service@tncglf.com)
-
-  * [AM25-Zigbee产品手册](AM25-Zigbee-product)
+* [Warranty Registration](warranty.md)
+* [Contact Us](mailto:service@tncglf.com)
+* [AM25-Zigbee 产品手册](AM25-Zigbee-product.md)
