@@ -10,5 +10,7 @@
 * [AC123-01D Manual](AC123-01D)
 * [AC123-06D Manual](AC123-06D)
 * [AC123-16D Manual](AC123-16D)
+* **FAQ**
+* [Frequently Asked Questions](FAQ)
 * **Support**
 * [Contact Us : Support@tncglf.com](mailto:Support@tncglf.com)
