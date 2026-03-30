@@ -8,7 +8,7 @@ Need help? Watch our step-by-step video below or follow the written instructions
     src="https://www.youtube.com/embed/YOUR_VIDEO_ID_HERE" 
     frameborder="0" allowfullscreen></iframe>
 </div>
-
+<iframe width="847" height="591" src="https://www.youtube.com/embed/dMA_iJSG5nQ" title="AM25-ES-EZ，Zigbee Tubular Motor Setting Method" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 ### 📥 Download User Manual
